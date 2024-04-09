@@ -1,0 +1,10 @@
+git commit -m "FirstCommit"  - коммит
+git branch - просмотр всех веток в локальном репозитории
+git checkout -b nameBranch - создание новой ветки
+git checkout nameBranch - для перехода в ветку 
+git branch -d nameBranch - для удаления ветки, но нужно сначала перйти в другую ветку
+git clone https://github.com/name.git - клонирование существуеющего проекта с удаленного репозитория
+
+git pull - забрать изменения с сервера
+git commit - подготовка изменений для сервера
+git push - отправить подготовленные изменения на сервер
